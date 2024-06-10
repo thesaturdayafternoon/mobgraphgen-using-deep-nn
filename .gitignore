@@ -1,0 +1,13 @@
+# ignore Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+# ignore PyCharm files
+.idea/
+# ignore these files
+/Colab Notebooks/complete_privacy_evaluation.ipynb
+/Colab Notebooks/complete_utility_evaluation.ipynb
+
+/mobgraphgen/fs_tag_tree.txt
+/mobgraphgen/build_real_mob_graph.py
+/mobgraphgen/util_priv_eval/helper.py

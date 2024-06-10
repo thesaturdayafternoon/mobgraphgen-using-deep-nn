@@ -1,0 +1,3 @@
+# ignore the content of this folder (the dataset is private)
+*
+!.gitignore
